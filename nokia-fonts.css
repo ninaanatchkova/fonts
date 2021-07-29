@@ -1,0 +1,39 @@
+
+@font-face {
+    font-family: Nokia;
+    font-weight: 700;
+    font-display: swap;
+    src: url(//nokiaphones.azureedge.net/fonts/bold.thai.woff2) format("woff2"),url(//nokiaphones.azureedge.net/fonts/bold.thai.woff) format("woff");
+    unicode-range: u+0e01-0e5b,u+200c-200d,u+25cc
+}
+
+@font-face {
+    font-family: Nokia;
+    font-weight: 700;
+    font-display: swap;
+    src: url(//nokiaphones.azureedge.net/fonts/bold.devanagari.woff2) format("woff2"),url(//nokiaphones.azureedge.net/fonts/bold.devanagari.woff) format("woff");
+    unicode-range: u+0900-097f,u+1cd0-1cf6,u+1cf8-1cf9,u+200c-200d,u+20a8,u+20b9,u+25cc,u+a830-a839,u+a8e0-a8fb
+}
+
+@font-face {
+    font-family: Nokia;
+    font-weight: 700;
+    font-display: swap;
+    src: url(//nokiaphones.azureedge.net/fonts/bold.myanmar.woff2) format("woff2"),url(//nokiaphones.azureedge.net/fonts/bold.myanmar.woff) format("woff");
+    unicode-range: u+1000-109f,u+200c-200d,u+25cc
+}
+
+@font-face {
+    font-family: Nokia;
+    font-weight: 700;
+    font-display: swap;
+    src: url(//nokiaphones.azureedge.net/fonts/bold.gujarati.woff2) format("woff2"),url(//nokiaphones.azureedge.net/fonts/bold.gujarati.woff) format("woff");
+    unicode-range: u+0964-0965,u+0a80-0aff,u+200c-200d,u+20b9,u+25cc,u+a830-a839
+}
+
+@font-face {
+    font-family: Nokia;
+    font-display: swap;
+    src: url(//nokiaphones.azureedge.net/fonts/NokiaPureBullets-Regular.woff2) format("woff2"),url(//nokiaphones.azureedge.net/fonts/NokiaPureBullets-Regular.woff) format("woff");
+    unicode-range: u+2022,u+2713
+}
