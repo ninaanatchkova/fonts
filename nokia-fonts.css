@@ -1,39 +1,47 @@
+@font-face {
+    font-family: Nokia;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://nokiaphones.azureedge.net/fonts/regular.latin.woff2) format("woff2");
+    unicode-range: u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+2000-2021,u+2023-206f,u+2074,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd
+}
 
 @font-face {
     font-family: Nokia;
-    font-weight: 700;
+    font-weight: 400;
     font-display: swap;
-    src: url(//nokiaphones.azureedge.net/fonts/bold.thai.woff2) format("woff2"),url(//nokiaphones.azureedge.net/fonts/bold.thai.woff) format("woff");
-    unicode-range: u+0e01-0e5b,u+200c-200d,u+25cc
+    src: url(https://nokiaphones.azureedge.net/fonts/regular.latin-ext.woff2) format("woff2");
+    unicode-range: u+0100-024f,u+0259,u+1e??,u+2020,u+20a0-20ab,u+20ad-20cf,u+2113,u+2c60-2c7f,u+a720-a7ff
+}
+
+@font-face {
+    font-family: Nokia;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://nokiaphones.azureedge.net/fonts/regular.vietnamese.woff2) format("woff2");
+    unicode-range: u+0102-0103,u+0110-0111,u+1ea0-1ef9,u+20ab
 }
 
 @font-face {
     font-family: Nokia;
     font-weight: 700;
     font-display: swap;
-    src: url(//nokiaphones.azureedge.net/fonts/bold.devanagari.woff2) format("woff2"),url(//nokiaphones.azureedge.net/fonts/bold.devanagari.woff) format("woff");
-    unicode-range: u+0900-097f,u+1cd0-1cf6,u+1cf8-1cf9,u+200c-200d,u+20a8,u+20b9,u+25cc,u+a830-a839,u+a8e0-a8fb
+    src: url(https://nokiaphones.azureedge.net/fonts/bold.latin.woff2) format("woff2"),url(https://nokiaphones.azureedge.net/fonts/bold.latin.woff) format("woff");
+    unicode-range: u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+2000-206f,u+2074,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd
 }
 
 @font-face {
     font-family: Nokia;
     font-weight: 700;
     font-display: swap;
-    src: url(//nokiaphones.azureedge.net/fonts/bold.myanmar.woff2) format("woff2"),url(//nokiaphones.azureedge.net/fonts/bold.myanmar.woff) format("woff");
-    unicode-range: u+1000-109f,u+200c-200d,u+25cc
+    src: url(https://nokiaphones.azureedge.net/fonts/bold.latin-ext.woff2) format("woff2"),url(https://nokiaphones.azureedge.net/fonts/bold.latin-ext.woff) format("woff");
+    unicode-range: u+0100-024f,u+0259,u+1e??,u+2020,u+20a0-20ab,u+20ad-20cf,u+2113,u+2c60-2c7f,u+a720-a7ff
 }
 
 @font-face {
     font-family: Nokia;
     font-weight: 700;
     font-display: swap;
-    src: url(//nokiaphones.azureedge.net/fonts/bold.gujarati.woff2) format("woff2"),url(//nokiaphones.azureedge.net/fonts/bold.gujarati.woff) format("woff");
-    unicode-range: u+0964-0965,u+0a80-0aff,u+200c-200d,u+20b9,u+25cc,u+a830-a839
-}
-
-@font-face {
-    font-family: Nokia;
-    font-display: swap;
-    src: url(//nokiaphones.azureedge.net/fonts/NokiaPureBullets-Regular.woff2) format("woff2"),url(//nokiaphones.azureedge.net/fonts/NokiaPureBullets-Regular.woff) format("woff");
-    unicode-range: u+2022,u+2713
+    src: url(https://nokiaphones.azureedge.net/fonts/bold.vietnamese.woff2) format("woff2"),url(https://nokiaphones.azureedge.net/fonts/bold.vietnamese.woff) format("woff");
+    unicode-range: u+0102-0103,u+0110-0111,u+1ea0-1ef9,u+20ab
 }
